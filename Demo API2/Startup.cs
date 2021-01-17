@@ -26,6 +26,10 @@ namespace Demo_API2
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+            services.AddCors(c =>
+            {
+                c.AddPolicy("AllowOrigin", options => options.AllowAnyOrigin());
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -42,10 +46,13 @@ namespace Demo_API2
 
             app.UseAuthorization();
 
+            app.UseCors(options => options.WithOrigins("https://localhost:4200"));
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
             });
+
+            app.UseCors(options => options.AllowAnyOrigin());
         }
     }
 }

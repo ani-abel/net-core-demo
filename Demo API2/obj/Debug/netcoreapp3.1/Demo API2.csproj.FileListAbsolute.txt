@@ -2,7 +2,6 @@ C:\Users\RUUBIXCUBE\source\repos\Demo API2\Demo API2\bin\Debug\netcoreapp3.1\app
 C:\Users\RUUBIXCUBE\source\repos\Demo API2\Demo API2\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\RUUBIXCUBE\source\repos\Demo API2\Demo API2\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\RUUBIXCUBE\source\repos\Demo API2\Demo API2\bin\Debug\netcoreapp3.1\Demo API2.exe
-C:\Users\RUUBIXCUBE\source\repos\Demo API2\Demo API2\obj\Debug\netcoreapp3.1\Demo API2.csprojAssemblyReference.cache
 C:\Users\RUUBIXCUBE\source\repos\Demo API2\Demo API2\obj\Debug\netcoreapp3.1\staticwebassets\Demo API2.StaticWebAssets.Manifest.cache
 C:\Users\RUUBIXCUBE\source\repos\Demo API2\Demo API2\obj\Debug\netcoreapp3.1\staticwebassets\Demo API2.StaticWebAssets.xml
 C:\Users\RUUBIXCUBE\source\repos\Demo API2\Demo API2\obj\Debug\netcoreapp3.1\Demo API2.AssemblyInfoInputs.cache
