@@ -13,7 +13,9 @@ namespace Demo_API2.Services
 
         public int Age { get; set; }
 
-        public List<String> Tags = new List<string>();
+        public IEnumerable<string> Tags { get; set; }
+
+        ///public List<String> Tags = new List<string>();
     }
 
     public class CustomResponse

@@ -89,3 +89,4 @@ C:\Users\RUUBIXCUBE\source\repos\Demo API2\Demo API2\obj\Debug\netcoreapp3.1\Dem
 C:\Users\RUUBIXCUBE\source\repos\Demo API2\Demo API2\obj\Debug\netcoreapp3.1\Demo API2.csproj.CopyComplete
 C:\Users\RUUBIXCUBE\source\repos\Demo API2\Demo API2\obj\Debug\netcoreapp3.1\Demo API2.dll
 C:\Users\RUUBIXCUBE\source\repos\Demo API2\Demo API2\obj\Debug\netcoreapp3.1\Demo API2.pdb
+C:\Users\RUUBIXCUBE\source\repos\Demo API2\Demo API2\obj\Debug\netcoreapp3.1\Demo API2.csprojAssemblyReference.cache
